@@ -1,0 +1,28 @@
+#a1{
+    margin-top:100px ;
+    background-color: rgba(0, 0, 0, 0.688);
+    
+}
+h1{
+    color:white ;
+}
+
+button{
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    }
+    @media(max-width:487px){
+       button{
+        height: 30px;
+        width:30px ;
+       }
+    }    
+@media(max-width:602px){
+    h1{
+    color:blue ;
+    font-size:28px ;
+    }
+   
+    
+}
